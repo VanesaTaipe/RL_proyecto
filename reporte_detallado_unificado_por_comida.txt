@@ -1,0 +1,489 @@
+REPORTE DETALLADO UNIFICADO POR NÚMERO DE COMIDA
+================================================================================
+
+COMIDA #1  (COMIDA INICIAL - VERIFICADA)
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 10 episodios
+  • Posiciones únicas utilizadas: 1
+  • Sincronización perfecta: 10/10 episodios
+  • Tasa de sincronización: 100.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 100.0% de las veces
+  • DQN la come: 100.0% de las veces
+  • Ambos la comen: 100.0% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 3.8 pasos
+  • DQN promedio: 2.0 pasos
+  • Más rápido: DQN (1.8 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (8, 8): aparece 10 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 1 | (8, 8)      | ✓       | ✓        | 2        | 2         | ✓   
+ 2 | (8, 8)      | ✓       | ✓        | 2        | 2         | ✓   
+ 3 | (8, 8)      | ✓       | ✓        | 10       | 2         | ✓   
+ 4 | (8, 8)      | ✓       | ✓        | 6        | 2         | ✓   
+ 5 | (8, 8)      | ✓       | ✓        | 4        | 2         | ✓   
+ 6 | (8, 8)      | ✓       | ✓        | 2        | 2         | ✓   
+ 7 | (8, 8)      | ✓       | ✓        | 4        | 2         | ✓   
+ 8 | (8, 8)      | ✓       | ✓        | 4        | 2         | ✓   
+ 9 | (8, 8)      | ✓       | ✓        | 2        | 2         | ✓   
+10 | (8, 8)      | ✓       | ✓        | 2        | 2         | ✓   
+
+================================================================================
+
+COMIDA #2
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 10 episodios
+  • Posiciones únicas utilizadas: 10
+  • Sincronización perfecta: 10/10 episodios
+  • Tasa de sincronización: 100.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 100.0% de las veces
+  • DQN la come: 100.0% de las veces
+  • Ambos la comen: 100.0% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 6.9 pasos
+  • DQN promedio: 6.7 pasos
+  • Más rápido: DQN (0.2 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (3, 0): aparece 1 veces
+  • (1, 9): aparece 1 veces
+  • (13, 3): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 1 | (3, 0)      | ✓       | ✓        | 15       | 15        | ✓   
+ 2 | (1, 9)      | ✓       | ✓        | 6        | 8         | ✓   
+ 3 | (13, 3)     | ✓       | ✓        | 8        | 8         | ✓   
+ 4 | (8, 13)     | ✓       | ✓        | 3        | 3         | ✓   
+ 5 | (2, 12)     | ✓       | ✓        | 10       | 8         | ✓   
+ 6 | (11, 2)     | ✓       | ✓        | 7        | 7         | ✓   
+ 7 | (10, 4)     | ✓       | ✓        | 4        | 4         | ✓   
+ 8 | (2, 11)     | ✓       | ✓        | 9        | 7         | ✓   
+ 9 | (15, 8)     | ✓       | ✓        | 5        | 5         | ✓   
+10 | (7, 5)      | ✓       | ✓        | 2        | 2         | ✓   
+
+================================================================================
+
+COMIDA #3
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 10 episodios
+  • Posiciones únicas utilizadas: 10
+  • Sincronización perfecta: 9/10 episodios
+  • Tasa de sincronización: 90.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 100.0% de las veces
+  • DQN la come: 100.0% de las veces
+  • Ambos la comen: 100.0% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 9.6 pasos
+  • DQN promedio: 8.2 pasos
+  • Más rápido: DQN (1.4 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (8, 7): aparece 1 veces
+  • (4, 14): aparece 1 veces
+  • (5, 12): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 1 | (8, 7)      | ✓       | ✓        | 16       | 12        | ✓   
+ 2 | (4, 14)     | ✓       | ✓        | 6        | 8         | ✓   
+ 3 | (5, 12)     | ✓       | ✓        | 17       | 15        | ✓   
+ 4 | (15, 8)     | ✓       | ✓        | 12       | 10        | ✓   
+ 5 | (1, 7)      | ✓       | ✓        | 4        | 4         | ✓   
+ 6 | (13, 14)    | ✓       | ✓        | 18       | 12        | ✓   
+ 7 | (9, 6)      | ✓       | ✓        | 1        | 1         | ✓   
+ 8 | (13, 3)     | ✓       | ✓        | 19       | 17        | ✓   
+ 9 | (11, 7)     | ✓       | ✓        | 3        | 3         | ✓   
+10 | (6, 6)      | ✓       | ✓        | 0        | 0         | ✗   
+
+================================================================================
+
+COMIDA #4
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 10 episodios
+  • Posiciones únicas utilizadas: 10
+  • Sincronización perfecta: 10/10 episodios
+  • Tasa de sincronización: 100.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 100.0% de las veces
+  • DQN la come: 90.0% de las veces
+  • Ambos la comen: 90.0% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 6.8 pasos
+  • DQN promedio: 8.3 pasos
+  • Más rápido: Q-Learning (1.5 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (7, 4): aparece 1 veces
+  • (11, 3): aparece 1 veces
+  • (7, 9): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 1 | (7, 4)      | ✓       | ✓        | 4        | 2         | ✓   
+ 2 | (11, 3)     | ✓       | ✓        | 16       | 16        | ✓   
+ 3 | (7, 9)      | ✓       | ✓        | 5        | 3         | ✓   
+ 4 | (2, 9)      | ✓       | ✓        | 12       | 28        | ✓   
+ 5 | (4, 1)      | ✓       | ✓        | 7        | 7         | ✓   
+ 6 | (10, 8)     | ✓       | ✓        | 7        | 7         | ✓   
+ 7 | (13, 5)     | ✓       | ✗        | 3        | None      | ✓   
+ 8 | (10, 1)     | ✓       | ✓        | 3        | 3         | ✓   
+ 9 | (15, 10)    | ✓       | ✓        | 5        | 5         | ✓   
+10 | (8, 12)     | ✓       | ✓        | 6        | 4         | ✓   
+
+================================================================================
+
+COMIDA #5
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 10 episodios
+  • Posiciones únicas utilizadas: 10
+  • Sincronización perfecta: 9/10 episodios
+  • Tasa de sincronización: 90.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 100.0% de las veces
+  • DQN la come: 80.0% de las veces
+  • Ambos la comen: 80.0% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 10.4 pasos
+  • DQN promedio: 8.5 pasos
+  • Más rápido: DQN (1.9 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (3, 2): aparece 1 veces
+  • (14, 15): aparece 1 veces
+  • (0, 7): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 1 | (3, 2)      | ✓       | ✓        | 4        | 4         | ✓   
+ 2 | (14, 15)    | ✓       | ✓        | 13       | 13        | ✓   
+ 3 | (0, 7)      | ✓       | ✓        | 13       | 7         | ✓   
+ 4 | (10, 0)     | ✓       | ✓        | 15       | 15        | ✓   
+ 5 | (0, 2)      | ✓       | ✓        | 7        | 5         | ✓   
+ 6 | (12, 12)    | ✓       | ✓        | 6        | 4         | ✓   
+ 7 | (4, 3)      | ✓       | ✗        | 9        | -         | ✗   
+ 8 | (1, 8)      | ✓       | ✓        | 18       | 14        | ✓   
+ 9 | (2, 10)     | ✓       | ✗        | 13       | None      | ✓   
+10 | (14, 10)    | ✓       | ✓        | 6        | 6         | ✓   
+
+================================================================================
+
+COMIDA #6
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 10 episodios
+  • Posiciones únicas utilizadas: 10
+  • Sincronización perfecta: 7/10 episodios
+  • Tasa de sincronización: 70.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 90.0% de las veces
+  • DQN la come: 70.0% de las veces
+  • Ambos la comen: 70.0% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 11.3 pasos
+  • DQN promedio: 10.3 pasos
+  • Más rápido: DQN (1.0 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (13, 1): aparece 1 veces
+  • (0, 13): aparece 1 veces
+  • (3, 0): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 1 | (13, 1)     | ✓       | ✓        | 9        | 9         | ✓   
+ 2 | (0, 13)     | ✓       | ✓        | 14       | 14        | ✓   
+ 3 | (3, 0)      | ✓       | ✓        | 8        | 8         | ✓   
+ 4 | (2, 15)     | ✓       | ✓        | 23       | 21        | ✓   
+ 5 | (10, 1)     | ✗       | ✗        | None     | None      | ✓   
+ 6 | (1, 13)     | ✓       | ✓        | 12       | 10        | ✓   
+ 7 | (15, 7)     | ✓       | ✗        | 13       | -         | ✗   
+ 8 | (4, 14)     | ✓       | ✓        | 9        | 7         | ✓   
+ 9 | (7, 2)      | ✓       | ✗        | 11       | -         | ✗   
+10 | (11, 12)    | ✓       | ✓        | 3        | 3         | ✗   
+
+================================================================================
+
+COMIDA #7
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 9 episodios
+  • Posiciones únicas utilizadas: 8
+  • Sincronización perfecta: 6/9 episodios
+  • Tasa de sincronización: 66.7%
+
+RENDIMIENTO:
+  • Q-Learning la come: 100.0% de las veces
+  • DQN la come: 55.6% de las veces
+  • Ambos la comen: 55.6% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 9.7 pasos
+  • DQN promedio: 7.0 pasos
+  • Más rápido: DQN (2.7 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (0, 3): aparece 2 veces
+  • (0, 2): aparece 1 veces
+  • (11, 13): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 1 | (0, 2)      | ✓       | ✓        | 14       | 14        | ✓   
+ 2 | (11, 13)    | ✓       | ✗        | 11       | None      | ✓   
+ 3 | (2, 4)      | ✓       | ✓        | 3        | 3         | ✗   
+ 4 | (0, 3)      | ✓       | ✗        | 12       | None      | ✓   
+ 6 | (0, 3)      | ✓       | ✓        | 9        | 9         | ✓   
+ 7 | (6, 4)      | ✓       | ✗        | 16       | -         | ✗   
+ 8 | (1, 7)      | ✓       | ✓        | 10       | 8         | ✓   
+ 9 | (4, 11)     | ✓       | ✗        | 11       | -         | ✗   
+10 | (8, 12)     | ✓       | ✓        | 1        | 1         | ✓   
+
+================================================================================
+
+COMIDA #8
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 9 episodios
+  • Posiciones únicas utilizadas: 9
+  • Sincronización perfecta: 5/9 episodios
+  • Tasa de sincronización: 55.6%
+
+RENDIMIENTO:
+  • Q-Learning la come: 66.7% de las veces
+  • DQN la come: 33.3% de las veces
+  • Ambos la comen: 22.2% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 10.0 pasos
+  • DQN promedio: 12.0 pasos
+  • Más rápido: Q-Learning (2.0 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (6, 7): aparece 1 veces
+  • (12, 5): aparece 1 veces
+  • (9, 12): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 1 | (6, 7)      | ✓       | ✗        | 9        | None      | ✓   
+ 2 | (12, 5)     | ✓       | ✗        | 7        | -         | ✗   
+ 3 | (9, 12)     | ✓       | ✓        | 13       | 11        | ✓   
+ 4 | (9, 3)      | ✗       | ✗        | None     | -         | ✗   
+ 6 | (1, 7)      | ✓       | ✗        | 3        | None      | ✓   
+ 7 | (15, 6)     | ✓       | ✗        | 13       | -         | ✗   
+ 8 | (9, 11)     | ✗       | ✓        | None     | 10        | ✓   
+ 9 | (3, 11)     | ✗       | ✗        | None     | -         | ✗   
+10 | (0, 3)      | ✓       | ✓        | 15       | 15        | ✓   
+
+================================================================================
+
+COMIDA #9
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 8 episodios
+  • Posiciones únicas utilizadas: 7
+  • Sincronización perfecta: 2/8 episodios
+  • Tasa de sincronización: 25.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 62.5% de las veces
+  • DQN la come: 25.0% de las veces
+  • Ambos la comen: 12.5% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 7.6 pasos
+  • DQN promedio: 7.5 pasos
+  • Más rápido: DQN (0.1 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (0, 7): aparece 1 veces
+  • (1, 3): aparece 1 veces
+  • (12, 10): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 1 | (0, 7)      | ✓       | ✗        | 4        | -         | ✗   
+ 2 | (1, 3)      | ✗       | ✗        | None     | -         | ✗   
+ 3 | (12, 10)    | ✓       | ✓        | 3        | 3         | ✓   
+ 6 | (15, 0)     | ✗       | ✗        | None     | -         | ✗   
+ 7 | (0, 2)      | ✓       | ✗        | 19       | -         | ✗   
+ 8 | N/A         | ✗       | ✓        | -        | 12        | ✗   
+ 9 | (10, 7)     | ✓       | ✗        | 9        | -         | ✗   
+10 | (1, 7)      | ✓       | ✗        | 3        | None      | ✓   
+
+================================================================================
+
+COMIDA #10
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 5 episodios
+  • Posiciones únicas utilizadas: 4
+  • Sincronización perfecta: 1/5 episodios
+  • Tasa de sincronización: 20.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 40.0% de las veces
+  • DQN la come: 20.0% de las veces
+  • Ambos la comen: 0.0% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 10.5 pasos
+  • DQN promedio: 7.0 pasos
+  • Más rápido: DQN (3.5 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (13, 7): aparece 1 veces
+  • (11, 2): aparece 1 veces
+  • (6, 2): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 1 | (13, 7)     | ✗       | ✗        | None     | -         | ✗   
+ 3 | (11, 2)     | ✗       | ✓        | None     | 7         | ✓   
+ 8 | N/A         | ✗       | ✗        | -        | None      | ✗   
+ 9 | (6, 2)      | ✓       | ✗        | 11       | -         | ✗   
+10 | (1, 15)     | ✓       | ✗        | 10       | -         | ✗   
+
+================================================================================
+
+COMIDA #11
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 3 episodios
+  • Posiciones únicas utilizadas: 2
+  • Sincronización perfecta: 0/3 episodios
+  • Tasa de sincronización: 0.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 33.3% de las veces
+  • DQN la come: 33.3% de las veces
+  • Ambos la comen: 0.0% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 6.0 pasos
+  • DQN promedio: 6.0 pasos
+  • Más rápido: DQN (0.0 pasos de diferencia)
+
+POSICIONES MÁS FRECUENTES:
+  • (10, 13): aparece 1 veces
+  • (5, 11): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 3 | N/A         | ✗       | ✓        | -        | 6         | ✗   
+ 9 | (10, 13)    | ✗       | ✗        | None     | -         | ✗   
+10 | (5, 11)     | ✓       | ✗        | 6        | -         | ✗   
+
+================================================================================
+
+COMIDA #12
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 2 episodios
+  • Posiciones únicas utilizadas: 1
+  • Sincronización perfecta: 0/2 episodios
+  • Tasa de sincronización: 0.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 50.0% de las veces
+  • DQN la come: 0.0% de las veces
+  • Ambos la comen: 0.0% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 10.0 pasos
+
+POSICIONES MÁS FRECUENTES:
+  • (9, 11): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+ 3 | N/A         | ✗       | ✗        | -        | None      | ✗   
+10 | (9, 11)     | ✓       | ✗        | 10       | -         | ✗   
+
+================================================================================
+
+COMIDA #13
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 1 episodios
+  • Posiciones únicas utilizadas: 1
+  • Sincronización perfecta: 0/1 episodios
+  • Tasa de sincronización: 0.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 100.0% de las veces
+  • DQN la come: 0.0% de las veces
+  • Ambos la comen: 0.0% de las veces
+
+TIEMPO PARA COMER:
+  • Q-Learning promedio: 8.0 pasos
+
+POSICIONES MÁS FRECUENTES:
+  • (14, 6): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+10 | (14, 6)     | ✓       | ✗        | 8        | -         | ✗   
+
+================================================================================
+
+COMIDA #14
+----------------------------------------
+INFORMACIÓN GENERAL:
+  • Aparece en 1 episodios
+  • Posiciones únicas utilizadas: 1
+  • Sincronización perfecta: 0/1 episodios
+  • Tasa de sincronización: 0.0%
+
+RENDIMIENTO:
+  • Q-Learning la come: 0.0% de las veces
+  • DQN la come: 0.0% de las veces
+  • Ambos la comen: 0.0% de las veces
+
+POSICIONES MÁS FRECUENTES:
+  • (0, 14): aparece 1 veces
+
+DETALLE POR EPISODIO:
+Ep | Posición    | QL Come | DQN Come | QL Pasos | DQN Pasos | Sync
+----------------------------------------------------------------------
+10 | (0, 14)     | ✗       | ✗        | None     | -         | ✗   
+
+================================================================================
+

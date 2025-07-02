@@ -1,0 +1,68 @@
+RESUMEN COMPREHENSIVO UNIFICADO - ANÁLISIS COMPLETO DE TODAS LAS COMIDAS
+================================================================================
+
+ESTADÍSTICAS GENERALES:
+  • Total de registros analizados: 98
+  • Episodios: 10
+  • Números de comida diferentes: 14
+  • Rango de comidas: #1 a #14
+
+ANÁLISIS ESPECÍFICO DE COMIDA #1:
+   Comida #1 encontrada en 10 episodios
+   Sincronización perfecta: 10/10 episodios
+   Tasa de sincronización: 100.0%
+   Tasa de éxito Q-Learning: 100.0%
+   Tasa de éxito DQN: 100.0%
+   Ambos la comen: 100.0%
+   ESTADO: COMIDA #1 VERIFICADA EN ANÁLISIS UNIFICADO
+
+VALIDACIÓN EXPERIMENTAL:
+  • Episodios con validación perfecta: 6/10
+  • Tasa de validación general: 60.0%
+  • Episodios con comida #1 perfecta: 10/10
+  • Tasa de validación comida #1: 100.0%
+  • Control experimental: PARCIAL
+  • Control comida #1: PERFECTO
+
+RENDIMIENTO PROMEDIO:
+  • Q-Learning: 74.46% de éxito
+  • DQN: 50.52% de éxito
+  • Mejor algoritmo: Q-Learning
+  • Diferencia: 23.95 puntos porcentuales
+
+COMIDAS MÁS FÁCILES (mayor tasa de éxito conjunto):
+  1. Comida #1: 100.0% de éxito (INICIAL)
+  2. Comida #2: 100.0% de éxito
+  3. Comida #3: 100.0% de éxito
+  4. Comida #4: 90.0% de éxito
+  5. Comida #5: 80.0% de éxito
+
+COMIDAS MÁS DIFÍCILES (menor tasa de éxito conjunto):
+  1. Comida #10: 0.0% de éxito
+  2. Comida #11: 0.0% de éxito
+  3. Comida #12: 0.0% de éxito
+  4. Comida #13: 0.0% de éxito
+  5. Comida #14: 0.0% de éxito
+
+ESTADÍSTICAS DE MAPAS INDIVIDUALES:
+  • Episodios procesados: 10
+  • Sincronización perfecta: 1
+  • Tasa promedio de sincronización: 72.9%
+  • Promedio de comidas por episodio: 9.8
+
+================================================================================
+CONCLUSIONES UNIFICADAS:
+
+ COMIDA #1 COMPLETAMENTE VERIFICADA:
+   • La comida #1 aparece correctamente en todos los episodios
+   • Las posiciones están perfectamente sincronizadas
+   • El análisis unificado confirma la corrección
+
+ CONTROL EXPERIMENTAL PARCIAL:
+   • Algunas secuencias tienen problemas de sincronización
+   • Interpretar resultados con precaución
+   • Revisar implementación del controlador
+
+ Q-LEARNING SUPERIOR:
+   • Q-Learning supera consistentemente a DQN
+   • Ventaja promedio: 23.9 puntos
